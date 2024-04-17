@@ -1,0 +1,12 @@
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgb(107, 155, 245);
+}
+li{
+    list-style: none;
+    color: aliceblue;
+}
