@@ -1,0 +1,7 @@
+Pages
+- home
+- sobre mim
+- viagens
+- projetos
+- cafés
+- contato
